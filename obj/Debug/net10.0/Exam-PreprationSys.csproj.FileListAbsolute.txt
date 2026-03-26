@@ -1,0 +1,14 @@
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/bin/Debug/net10.0/Exam-PreprationSys
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/bin/Debug/net10.0/Exam-PreprationSys.deps.json
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/bin/Debug/net10.0/Exam-PreprationSys.runtimeconfig.json
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/bin/Debug/net10.0/Exam-PreprationSys.dll
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/bin/Debug/net10.0/Exam-PreprationSys.pdb
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.AssemblyInfo.cs
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.dll
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/refint/Exam-PreprationSys.dll
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.pdb
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.genruntimeconfig.cache
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/ref/Exam-PreprationSys.dll
