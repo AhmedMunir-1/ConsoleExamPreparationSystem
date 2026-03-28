@@ -29,7 +29,7 @@ C# console app for exam creation (Professor) and solving (Student). Core entitie
 
 *** Class Diagram  ***
 *** Sequance Diagram ***      
-                                                      ----> Are on image Diagrams Files
+                                                      ----> Are on Diagrams Img Files
 
 
 Open OOD.md in VSCode Markdown preview to render diagrams interactively.
