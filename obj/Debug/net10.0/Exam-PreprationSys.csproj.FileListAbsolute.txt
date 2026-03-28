@@ -12,3 +12,4 @@
 /Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.pdb
 /Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.genruntimeconfig.cache
 /Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/ref/Exam-PreprationSys.dll
+/Users/ahmed/Desktop/ERA .Net Course/523/D04/Task4/Exam-PreprationSys/obj/Debug/net10.0/Exam-PreprationSys.sourcelink.json

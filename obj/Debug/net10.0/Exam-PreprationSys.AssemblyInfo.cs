@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exam-PreprationSys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad572ef0dae8601ace57732c8399177b3754cc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d369b6ce66308e009511d6ff30540af6481a780b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exam-PreprationSys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exam-PreprationSys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -54,7 +54,7 @@ namespace ExamSystem
                 mode = Convert.ToInt32(Console.ReadLine());
             }
 
-            if (mode == 2 && exam1 == null)
+             if (mode == 2 && exam1 == null)
             {
                 Console.WriteLine("No Exam Created Yet , Please Wait For The Professor To Create An Exam");
                    ExamMode();

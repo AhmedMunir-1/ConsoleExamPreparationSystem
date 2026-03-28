@@ -22,6 +22,8 @@ namespace ExamSystem.Exam
 
         string Exam_id {get; set;}
 
+        
+
         public  int ExamGrades {get; set;}
 
         public List<True_False_Question>  true_False_Questions = new();
