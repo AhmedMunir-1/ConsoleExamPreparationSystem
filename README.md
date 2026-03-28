@@ -1,8 +1,8 @@
 
-                                                      # ConsoleExamPreparationSystem
-                                                  --------------------------------------
+                                                # ConsoleExamPreparationSystem
+                                            --------------------------------------
 
-                                      # Object-Oriented Design (OOD) for Exam Preparation System
+                                 # Object-Oriented Design (OOD) for Exam Preparation System
 
 ## Overview
 C# console app for exam creation (Professor) and solving (Student). Core entities:
@@ -28,7 +28,8 @@ C# console app for exam creation (Professor) and solving (Student). Core entitie
 
 
 *** Class Diagram  ***
-                            ----> Are on image Diagrams Files
 *** Sequance Diagram ***      
+                                                      ----> Are on image Diagrams Files
+
 
 Open OOD.md in VSCode Markdown preview to render diagrams interactively.
